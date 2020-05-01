@@ -50,7 +50,7 @@ try {
 
 ## Features
 
-- Supports reading, writing, and converting GIF, JPEG, PNG, WEBP, BMP formats.
+- Supports reading, writing, and converting JPEG, PNG, WEBP, BMP formats.
 - Reads and writes files, data URIs
 - Manipulation: crop, resize
 - Chainable methods
